@@ -4,4 +4,6 @@
 
 > Наш Open Source проект предназначен для объединения людей со всего мира!
 
-_Тут будут контакты_
+:telephone_receiver: Тел: 8 800 333 55 22
+
+:mailbox_with_no_mail: Email: support@test.ru
